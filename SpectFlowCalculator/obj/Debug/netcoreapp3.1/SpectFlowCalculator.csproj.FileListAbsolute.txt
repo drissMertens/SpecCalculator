@@ -1,0 +1,10 @@
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\bin\Debug\netcoreapp3.1\SpectFlowCalculator.deps.json
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\bin\Debug\netcoreapp3.1\SpectFlowCalculator.dll
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\bin\Debug\netcoreapp3.1\SpectFlowCalculator.pdb
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.AssemblyInfo.cs
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.dll
+C:\Users\driss\source\repos\SpectFlowCalculator\SpectFlowCalculator\obj\Debug\netcoreapp3.1\SpectFlowCalculator.pdb
